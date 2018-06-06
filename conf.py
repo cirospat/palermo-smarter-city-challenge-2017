@@ -13,8 +13,8 @@ __version__ = '1.0'
 
 source_suffix = '.rst'
 master_doc = 'index'
-project = 'Report Palermo Smarter City Challenge 2017 - IBM'
-copyright = '2017-2018, IBM'
+project = 'Report Palermo Smarter City Challenge 2017 by IBM'
+copyright = '2017 2018 IBM'
 
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = 'sphinx'
