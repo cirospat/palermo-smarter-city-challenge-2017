@@ -5,4 +5,4 @@ Fonte news: https://www.comune.palermo.it/noticext.php?cat=1&id=18564
 
 Fonte report: https://www.comune.palermo.it/js/server/uploads/_05062018171816.pdf
 
-copyright IBM
+copyright IBM sul Report
