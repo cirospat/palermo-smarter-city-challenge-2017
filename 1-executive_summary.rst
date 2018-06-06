@@ -3,7 +3,7 @@
 .. _h5a3e7d163545a53223d332950303a4e:
 
 1 . Executive Summary
-*********************
+#####################
 
 “Il Challenge” della città: Far crescere ulteriormente la città di Palermo rendendola un luogo più inclusivo per migranti, nuovi residenti e tutti i cittadini palermitani, attraverso l’uso della tecnologia e di partnership sostenibili.
 
