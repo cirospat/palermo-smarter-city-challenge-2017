@@ -69,7 +69,7 @@ Figura 2: Osservazioni principali
 
 \ |IMG8|\ 
 
-Figura 3: La nostra visione del contesto di Palermo
+Figura 3: La nostra visione del contesto di Palermo (clicca sull'immagine per ingrandire)
 
 |
 
@@ -116,7 +116,7 @@ Raccomandazioni di base:
 
 \ |IMG9|\ 
 
-Figura 4: la rivoluzione digitale di Palermo
+Figura 4: la rivoluzione digitale di Palermo (clicca sull'immagine per ingrandire)
 
 |
 
@@ -211,7 +211,7 @@ La tabella qui di seguito fornisce un riepilogo della road map delle raccomandaz
 
 \ |IMG10|\ 
 
-Figura 5: Road map delle raccomandazioni
+Figura 5: Road map delle raccomandazioni  (clicca sull'immagine per ingrandire)
 
 |
 
