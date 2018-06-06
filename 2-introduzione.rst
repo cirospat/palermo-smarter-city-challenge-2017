@@ -1,4 +1,3 @@
-\ |IMG1|\ 
 
 .. _h203978782b1b1a177f1d284b24b751:
 
@@ -26,15 +25,15 @@ In seguito a un processo di selezione, Palermo è stata scelta tra le 16 città 
 
 Per un periodo di tre settimane, nel novembre 2017, un team di sei esperti IBM ha lavorato a Palermo per fornire raccomandazioni su tematiche chiave per il sindaco di Palermo, Leoluca Orlando.
 
-\ |IMG2|\ \ |STYLE0|\ 
+\ |IMG1|\ \ |STYLE0|\ 
 
 Siamo in grado di misurare, percepire e vedere la condizione di praticamente tutto.
 
-\ |IMG3|\ \ |STYLE1|\ 
+\ |IMG2|\ \ |STYLE1|\ 
 
 Persone, sistemi e oggetti possono comunicare e interagire tra loro in maniera completamente nuova-
 
-\ |IMG4|\  \ |STYLE2|\ 
+\ |IMG3|\  \ |STYLE2|\ 
 
 Siamo in grado di analizzare e ricavare idee e spunti da fonti di informazione ampie e diversificate per prevedere e rispondere meglio ai cambiamenti
 
@@ -80,17 +79,13 @@ Tutti hanno condiviso l'importanza della sfida, che può essere così sintetizza
 .. |STYLE3| replace:: **Far crescere ulteriormente la città di Palermo rendendola un luogo più inclusivo per migranti, nuovi residenti e tutti i cittadini palermitani, attraverso l’uso della tecnologia e di partnership sostenibili.**
 
 .. |IMG1| image:: static/2-introduzione_1.png
-   :height: 626 px
-   :width: 532 px
-
-.. |IMG2| image:: static/2-introduzione_2.png
    :height: 224 px
    :width: 260 px
 
-.. |IMG3| image:: static/2-introduzione_3.png
+.. |IMG2| image:: static/2-introduzione_2.png
    :height: 232 px
    :width: 254 px
 
-.. |IMG4| image:: static/2-introduzione_4.png
+.. |IMG3| image:: static/2-introduzione_3.png
    :height: 233 px
    :width: 248 px
