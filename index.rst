@@ -34,7 +34,7 @@ Dal 2010, IBM ha conferito lo Smarter Cities Challenge grant a oltre 130 città 
 
 ..  Important:: 
 
-    \ |LINK3|\ 
+    \ |LINK3|\  \ |STYLE3|\ 
 
 
 .. toctree::  
@@ -57,6 +57,8 @@ Dal 2010, IBM ha conferito lo Smarter Cities Challenge grant a oltre 130 città 
 .. |STYLE1| replace:: **istruzione**
 
 .. |STYLE2| replace:: **comunicazione**
+
+.. |STYLE3| replace:: **redatto da IBM in formato pdf**
 
 
 .. |LINK1| raw:: html
