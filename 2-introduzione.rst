@@ -45,7 +45,7 @@ Figura 1: Strutturato, interconnesso, intelligente
 .. _h22356b76705a632960f56536431126:
 
 B. La sfida
-***********
+===========
 
 In quanto capoluogo della regione Sicilia, Palermo ha ricevuto un’ampia percentuale dei 160.000 migranti che sono giunti in Italia nel 2016. Palermo vede questa come un’opportunità per rendere la città più inclusiva, dando vita a un percorso adeguato di accoglienza, di primo soccorso e di integrazione per ogni migrante. Con un obiettivo
 
