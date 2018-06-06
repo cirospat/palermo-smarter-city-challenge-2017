@@ -13,7 +13,7 @@ __version__ = '1.0'
 
 source_suffix = '.rst'
 master_doc = 'index'
-project = 'Palermo Smarter City Challenge 2017 - IBM'
+project = 'Report Palermo Smarter City Challenge 2017 - IBM'
 copyright = '2017-2018, IBM'
 
 # The name of the Pygments (syntax highlighting) style to use.
@@ -37,5 +37,5 @@ def setup(app):
 """
 #latex_documents = []
 
-latex_logo = "static/ibm-smarter.png"
-html_logo = "static/ibm-smarter.png"
+latex_logo = "static/ibm-smarter.PNG"
+html_logo = "static/ibm-smarter.PNG"
