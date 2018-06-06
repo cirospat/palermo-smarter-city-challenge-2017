@@ -83,9 +83,7 @@ Risorse necessarie suggerite
 
 * Spazi per uffici per supportare il personale interno e quello delle ONG
 
-Stima dei costi:
-
-Media. La città potrebbe avere personale in grado di supportare
+Stima dei costi: Media. La città potrebbe avere personale in grado di supportare
 
 .. _h3863a7734174517495e7c502040756b:
 
@@ -216,9 +214,7 @@ Vincoli
 Milestone, attività e tempistiche
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Breve termine: 
-
-Identificare precisamente le norme e i regolamenti che devono essere modificati (tre mesi)
+Breve termine: Identificare precisamente le norme e i regolamenti che devono essere modificati (tre mesi)
 
 Medio termine:
 
@@ -226,9 +222,7 @@ Medio termine:
 
 * Integrazione con la piattaforma di gestione digitale del Comune per tracciare l’utilizzo e l’efficacia (sei mesi)
 
-Lungo termine:
-
-Non presente
+Lungo termine: Non presente
 
 .. _h58e5e153642e7ed2e4e1165a2b4b:
 
@@ -335,9 +329,7 @@ Risorse necessarie suggerite
 
 * Supporto del sito Web per le interazioni con il pubblico, i clienti e i datori di lavoro
 
-Stima dei costi:
-
-Bassa. Parte delle risorse risulterebbe già disponibile nell'ambito delle competenze della città.
+Stima dei costi: Bassa. Parte delle risorse risulterebbe già disponibile nell'ambito delle competenze della città.
 
 .. _h3863a7734174517495e7c502040756b:
 
@@ -357,17 +349,15 @@ Vincoli
 Milestone, attività e tempistiche
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Breve termine:
-
-Workshop per sviluppare la user experience, descrivere il sistema e costruire il piano (due mesi)
+Breve termine: Workshop per sviluppare la user experience, descrivere il sistema e costruire il piano (due mesi)
 
 Medio termine:
 
-Fase 1: capacità iniziale per la candidatura a un posto di lavoro (due mesi)
+* Fase 1: capacità iniziale per la candidatura a un posto di lavoro (due mesi)
 
-Fase 2: capacità iniziale per trovare corrispondenza tra domanda e offerta (due mesi)
+* Fase 2: capacità iniziale per trovare corrispondenza tra domanda e offerta (due mesi)
 
-Fase 3: avvio della capacità operativa iniziale (due mesi)
+* Fase 3: avvio della capacità operativa iniziale (due mesi)
 
 Lungo termine:
 
@@ -496,9 +486,9 @@ Milestone, attività e tempistiche
 Priorità
 ~~~~~~~~
 
-Media in termini di implementazione del progetto
+* Media in termini di implementazione del progetto
 
-Alta relativamente ai requisiti educativi che si traducono nella mappatura di abilità / competenze future
+* Alta relativamente ai requisiti educativi che si traducono nella mappatura di abilità / competenze future
 
 |
 
@@ -761,9 +751,7 @@ Alta
 Comunicazione - Coinvolgere il cittadino
 ========================================
 
-\ |STYLE9|\  - Un tema comune in tutte le interviste condotte con i cittadini, le associazioni e le ONG è stata la necessità di una migliore comunicazione all’interno di Palermo:
-
-dalla città ai suoi cittadini, da parte delle organizzazioni e associazioni culturali ai cittadini ed al Comune.
+\ |STYLE9|\  - Un tema comune in tutte le interviste condotte con i cittadini, le associazioni e le ONG è stata la necessità di una migliore comunicazione all’interno di Palermo: dalla città ai suoi cittadini, da parte delle organizzazioni e associazioni culturali ai cittadini ed al Comune.
 
 Vi è una buona capacità di comunicatori a Palermo, fatta di persone ma molto basata sul passaparola. 
 
@@ -895,9 +883,7 @@ Inclusione nel piano di implementazione annuale di SISPI
 Milestone, attività e tempistiche
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Ampliamento del team di comunicazione per concentrarsi su questa
-
-attività
+Ampliamento del team di comunicazione per concentrarsi su questa attività
 
 * Definire la "user experience" del cittadino 
 
@@ -1115,9 +1101,7 @@ Altre attività che potrebbero essere prese in considerazione:
 Risultati attesi
 ~~~~~~~~~~~~~~~~
 
-Palermo potrebbe diventare la “Città del coding”. Serve una nuova ondata di sviluppatori per costruire il mondo digitale di domani. Ogni cittadino
-
-di Palermo avrebbe l’opportunità di usare la propria creatività per diventare un talento IT riconosciuto all’interno di questo movimento
+Palermo potrebbe diventare la “Città del coding”. Serve una nuova ondata di sviluppatori per costruire il mondo digitale di domani. Ogni cittadino di Palermo avrebbe l’opportunità di usare la propria creatività per diventare un talento IT riconosciuto all’interno di questo movimento
 
 * La popolazione migrante, spesso inattiva mentre è in attesa di ricevere il permesso di soggiorno, potrebbe utilizzare il tempo a disposizione per apprendere abilità preziose che, se necessario, possono essere utilizzate in qualunque parte del mondo o nei loro paesi d’origine 
 
