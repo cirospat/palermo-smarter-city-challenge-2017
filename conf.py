@@ -37,5 +37,4 @@ def setup(app):
 """
 #latex_documents = []
 
-latex_logo = "static/ibm-smarter.PNG"
 html_logo = "static/ibm-smarter.PNG"
