@@ -31,7 +31,10 @@ Ognuna delle raccomandazioni presentate nel rapporto viene dettagliata con l’i
 
 Dal 2010, IBM ha conferito lo Smarter Cities Challenge grant a oltre 130 città in tutto il mondo, scelte tra oltre 600 candidate, grazie al lavoro di quasi 800 tra i migliori esperti di IBM che hanno proposto servizi pro bono per un valore superiore a 68 milioni di dollari. Ogni incarico di consulenza ha un valore commerciale di circa 500.000 dollari.
 
-\ |LINK3|\ 
+
+..  Important:: 
+
+    \ |LINK3|\ 
 
 
 .. toctree::  
@@ -66,7 +69,7 @@ Dal 2010, IBM ha conferito lo Smarter Cities Challenge grant a oltre 130 città 
 
 .. |LINK3| raw:: html
 
-    <a href="https://www.comune.palermo.it/js/server/uploads/_05062018171816.pdf" target="_blank">Report Smarter Cities Challenge Palermo</a>
+    <a href="https://www.comune.palermo.it/js/server/uploads/_05062018171816.pdf" target="_blank">Link al Report Smarter Cities Challenge Palermo 2017</a>
 
 
 .. |IMG1| image:: static/index-palermo-ibm-smarter-city-challenge-2017_1.png
