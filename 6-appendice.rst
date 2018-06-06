@@ -92,9 +92,9 @@ A . Ringraziamenti
 |Lucia Maenza                                                                                     |Servizi di traduzione             |
 +-------------------------------------------------------------------------------------------------+----------------------------------+
 
-.. _h7c336822741a701a1e221349557b1a2f:
+.. _h2856672752743105b1211f409135c:
 
-B . Biografie del team
+B . Biografie del Team
 **********************
 
 \ |IMG1|\ \ |STYLE0|\ 
@@ -107,19 +107,15 @@ Krishnan è un noto ingegnere e master inventor di IBM che lavora in azienda da 
 
 \ |STYLE3|\ 
 
-\ |STYLE4|\ 
-
 Kate è una brillante marketing leader, concentrata sull’ottenimento dei risultati e sulla creazione di un ambiente in cui sia il team che i singoli individui possano avere successo. Con oltre 20 anni di esperienza, sia nel Regno Unito che a livello internazionale, Kate si è occupata di tutte le aree del marketing, dalla pianificazione strategica alla generazione della domanda, dalla costruzione e gestione del brand alle public relation e gestione della reputazione, dalla comunicazione interna e pubblicità fino al marketing relazionale, ricerche di mercato e digitale. Kate è attualmente direttore marketing e comunicazione della divisione Business Consulting di IBM Europa, con la responsabilità di promuovere la brand awareness e la generazione della domanda, nonché la comunicazione interna per il business.
 
 Prima di questo, Kate ha istituito e gestito un Global Marketing Center per IBM a Bucarest, in Romania. Era responsabile di tutti gli aspetti operativi legati alla gestione del Centro e, sotto la sua guida, il team è passato da 20 a oltre 430 persone in 3 anni e mezzo. Prima di questo, è stata responsabile del brand e delle comunicazioni presso IBM nel Regno Unito, dove ha sviluppato e implementato un programma di reputazione all’interno della strategia di trasformazione aziendale del Regno Unito, per rendere l’azienda rilevante nel mercato locale. Ha anche svolto attività di consulenza di branding per clienti e associazioni di beneficenza. Durante questo periodo, Kate ha anche svolto un incarico di consulenza, in contatto diretto con un cliente in Cina. È una grande appassionata di diversità ed è stata
 
 rappresentante dell’UK Women’s Leadership Council ed è attualmente alla guida del Consiglio per la diversità dell’European Global Business Services. Ha presentato il tema della diversità a diverse organizzazioni e clienti esterni. Kate vanta un importante track record sulla realizzazione di nuove missioni, di progetti impegnativi e legati al cambiamento. È riconosciuta come una brava manager di persone, con uno stile aperto e diretto.
 
-\ |IMG3|\ \ |STYLE5|\ 
+\ |IMG3|\ \ |STYLE4|\ 
 
-\ |STYLE6|\ 
-
-\ |STYLE7|\ 
+\ |STYLE5|\ 
 
 Lisa è una leader forte ed entusiasta con la passione per il business, dedita a potenziare i suoi team e guidarli verso l’eccellenza. Attraverso il suo motivante stile di leadership, Lisa ha creato team impegnati in grado di fornire una client experience specifica, con il conseguente
 
@@ -129,9 +125,9 @@ La PMP, la Stanford Advanced PM, Agile, CMAM e CITAM sono tra le sue numerose ce
 
 in Irlanda.
 
-\ |IMG4|\ \ |STYLE8|\ 
+\ |IMG4|\ \ |STYLE6|\ 
 
-\ |STYLE9|\ 
+\ |STYLE7|\ 
 
 Hélène è riconosciuta in tutto il mondo come leader tecnico per le soluzioni mainframe, ora chiamato “IBM System Z”. È appassionata del valore che IBM System Z fornisce ai nostri clienti, al business di IBM e a tutto il mondo. 
 
@@ -139,21 +135,19 @@ Il suo ruolo di dirigente tecnico di IBM è quello di guidare i clienti mainfram
 
 Durante i suoi trentaquattro anni in IBM Francia, ha ricoperto diverse posizioni tecniche, iniziando da un centro IBM di internal computing, occupando poi diversi ruoli, sempre in contatto con il cliente. Questo le ha consentito di ottenere una vasta esperienza delle architetture mainframe, che le hanno permesso di interagire non solo con i team IT ma anche con i leader aziendali.
 
-\ |IMG5|\  \ |STYLE10|\ 
+\ |IMG5|\  \ |STYLE8|\ 
 
-\ |STYLE11|\ 
+\ |STYLE9|\ 
 
 Michael è il leader globale dei Cloud Adoption Services di IBM ed è in IBM da 29 anni. Gestisce un team globale composto da consulenti di grande esperienza che consentono ai responsabili decisionali IT e CIO di massimizzare il valore strategico dell’IT e sfruttare le tendenze del business digitale e della tecnologia disruptive. Michael si è laureato alla Salisbury University, per poi frequentare un master in finanza presso l’Università di Baltimora e un altro master in gestione dei sistemi informatici presso l’Università del Maryland. È entrato in IBM nel 2000 e ha guidato le attività della Public Sector Technology Strategy dal 2004 al 2009. Dal 2009 al 2014 è stato managing partner dello sviluppo e della crescita del Strategy & Transformation Center of Competence in un’attività globale di collaborazione con i clienti più critici di IBM, per creare nuove opportunità di crescita e valore. 
 
 Michael ha ventotto anni di esperienza in consulenza, informatica, project management (PMP) e progetti di ingegneria dei sistemi con aziende di tutto il mondo. Michael ha esperienza in ogni tipologia di progetto con i clienti, da piccoli progetti high-touch a progetti più complessi dal valore di oltre 600 milioni di dollari. Michael è coinvolto in numerosi incarichi speciali, il più recente dei quali è il ruolo di leader GBS per le nuove acquisizioni e l’integrazione del cloud.
 
-\ |IMG6|\ \ |STYLE12|\ 
+\ |IMG6|\ \ |STYLE10|\ 
 
-\ |STYLE13|\ 
+\ |STYLE11|\ 
 
-Andrea è entrato in IBM nel 1985 come assistente contabile. Nella sua carriera in IBM, ha ricoperto diverse posizioni nel settore finanziario diventando manager dopo sei anni e ricoprendo, negli ultimi vent’anni, il ruolo di People Manager, durante i quali ha acquisito esperienza e conoscenza nelle aree Accounting, Business Control, Finance e Planning, ricoprendo ruoli chiave a livello nazionale ed europeo e gestendo diverse business unit di IBM (Hardware, Software, Servizi e ora Global Financing). Il suo background è arricchito da diverse esperienze internazionali nella sede di IBM Europa, in particolare nel Regno Unito, Francia e Spagna. Di recente, ha trascorso un anno in Cina, lavorando a un grosso contratto
-
-con una società leader a livello internazionale nel settore delle telecomunicazioni. Negli ultimi venti anni in IBM,ha trascorso più della metà del tempo fuori dal proprio Paese, acquisendo una forte conoscenza multiculturale e profonde esperienze di people management. Andrea è attualmente il Chief Financial Officer dell’unità IBM Global Financing per l’Europa ed è a capo di un team di circa 70 persone in tutta Europa.
+Andrea è entrato in IBM nel 1985 come assistente contabile. Nella sua carriera in IBM, ha ricoperto diverse posizioni nel settore finanziario diventando manager dopo sei anni e ricoprendo, negli ultimi vent’anni, il ruolo di People Manager, durante i quali ha acquisito esperienza e conoscenza nelle aree Accounting, Business Control, Finance e Planning, ricoprendo ruoli chiave a livello nazionale ed europeo e gestendo diverse business unit di IBM (Hardware, Software, Servizi e ora Global Financing). Il suo background è arricchito da diverse esperienze internazionali nella sede di IBM Europa, in particolare nel Regno Unito, Francia e Spagna. Di recente, ha trascorso un anno in Cina, lavorando a un grosso contratto con una società leader a livello internazionale nel settore delle telecomunicazioni. Negli ultimi venti anni in IBM,ha trascorso più della metà del tempo fuori dal proprio Paese, acquisendo una forte conoscenza multiculturale e profonde esperienze di people management. Andrea è attualmente il Chief Financial Officer dell’unità IBM Global Financing per l’Europa ed è a capo di un team di circa 70 persone in tutta Europa.
 
 |
 
@@ -270,27 +264,23 @@ Dati mappa © 2018 Google
 
 .. |STYLE2| replace:: **Kate Pennell**
 
-.. |STYLE3| replace:: **Direttore marketing e comunicazione,**
+.. |STYLE3| replace:: **Direttore marketing e comunicazione, IBM Global Business Services IBM Europa**
 
-.. |STYLE4| replace:: **IBM Global Business Services IBM Europa**
+.. |STYLE4| replace:: **Lisa Armstrong**
 
-.. |STYLE5| replace:: **Lisa Armstrong**
+.. |STYLE5| replace:: **Client Solutions Program Executive, Global Asset Management Transformation and Operations IBM**
 
-.. |STYLE6| replace:: **Client Solutions Program Executive,**
+.. |STYLE6| replace:: **Hélène Lyon**
 
-.. |STYLE7| replace:: **Global Asset Management Transformation and Operations IBM**
+.. |STYLE7| replace:: **Distinguished Engineer, European IBM z Solutions Architect, IBM Europa**
 
-.. |STYLE8| replace:: **Hélène Lyon**
+.. |STYLE8| replace:: **Michael Fitzgerald**
 
-.. |STYLE9| replace:: **Distinguished Engineer, European IBM z Solutions Architect, IBM Europa**
+.. |STYLE9| replace:: **Cloud Adoption Services Leader globale, IBM Global Business Services IBM**
 
-.. |STYLE10| replace:: **Michael Fitzgerald**
+.. |STYLE10| replace:: **Andrea Abbà**
 
-.. |STYLE11| replace:: **Cloud Adoption Services Leader globale, IBM Global Business Services IBM**
-
-.. |STYLE12| replace:: **Andrea Abbà**
-
-.. |STYLE13| replace:: **CFO, IBM Global Financing IBM Europe**
+.. |STYLE11| replace:: **CFO, IBM Global Financing IBM Europe**
 
 
 .. |LINK1| raw:: html
