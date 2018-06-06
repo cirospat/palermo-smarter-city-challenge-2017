@@ -1,10 +1,10 @@
 \ |IMG1|\ 
 
-5 Giugno 2018, comunicato stampa del Comune di Palermo di presentazione del report finale di Palermo Smarter City Challenge
+5 Giugno 2018, \ |LINK1|\  di presentazione del report finale di Palermo Smarter City Challenge
 
-.. _ha552d4339442b4514686d7839564:
+.. _h312486d79423c3552b476c31f70c:
 
-\ |LINK1|\ 
+\ |LINK2|\ 
 ###########
 
 Presentato a Palazzo delle Aquile il report finale di Smarter Cities Challenge, messo a punto da un team di esperti IBM per aiutare la città a trasformarsi.
@@ -31,7 +31,7 @@ Ognuna delle raccomandazioni presentate nel rapporto viene dettagliata con l’i
 
 Dal 2010, IBM ha conferito lo Smarter Cities Challenge grant a oltre 130 città in tutto il mondo, scelte tra oltre 600 candidate, grazie al lavoro di quasi 800 tra i migliori esperti di IBM che hanno proposto servizi pro bono per un valore superiore a 68 milioni di dollari. Ogni incarico di consulenza ha un valore commerciale di circa 500.000 dollari.
 
-\ |LINK2|\ 
+\ |LINK3|\ 
 
 
 .. toctree::  
@@ -58,9 +58,13 @@ Dal 2010, IBM ha conferito lo Smarter Cities Challenge grant a oltre 130 città 
 
 .. |LINK1| raw:: html
 
-    <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=18564" target="_blank">Palermo città più inclusiva grazie alla tecnologia</a>
+    <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=18564" target="_blank">comunicato stampa del Comune di Palermo</a>
 
 .. |LINK2| raw:: html
+
+    <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=18564" target="_blank">Palermo città più inclusiva grazie alla tecnologia</a>
+
+.. |LINK3| raw:: html
 
     <a href="https://www.comune.palermo.it/js/server/uploads/_05062018171816.pdf" target="_blank">Report Smarter Cities Challenge Palermo</a>
 
