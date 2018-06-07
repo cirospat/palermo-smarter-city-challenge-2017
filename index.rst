@@ -2,7 +2,7 @@
 
 .. admonition:: Comunicato stampa del Comune di Palermo
 
-    5 Giugno 2018: \ |LINK1|\ 
+    \ |IMG3|\ 5 Giugno 2018: \ |LINK1|\ 
 
  
 
