@@ -73,9 +73,13 @@ Dal 2010, IBM ha conferito lo Smarter Cities Challenge grant a oltre 130 città 
 
 
 .. |IMG1| image:: static/index-palermo-ibm-smarter-city-challenge-2017_1.png
-   :height: 292 px
-   :width: 248 px
+   :height: 248 px
+   :width: 212 px
 
 .. |IMG2| image:: static/index-palermo-ibm-smarter-city-challenge-2017_2.png
    :height: 90 px
    :width: 218 px
+
+.. |IMG3| image:: static/index-palermo-ibm-smarter-city-challenge-2017_3.png
+   :height: 89 px
+   :width: 92 px
