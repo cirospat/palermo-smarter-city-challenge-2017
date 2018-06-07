@@ -1,6 +1,10 @@
-\ |IMG1|\ 
+\ |IMG1|\ \ |IMG2|\ 
 
-5 Giugno 2018, \ |LINK1|\  di presentazione del report finale di Palermo Smarter City Challenge
+.. admonition:: Comunicato stampa del Comune di Palermo
+
+    5 Giugno 2018: \ |LINK1|\ 
+
+ 
 
 .. _h312486d79423c3552b476c31f70c:
 
@@ -57,7 +61,7 @@ Dal 2010, IBM ha conferito lo Smarter Cities Challenge grant a oltre 130 città 
 
 .. |LINK1| raw:: html
 
-    <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=18564" target="_blank">comunicato stampa del Comune di Palermo</a>
+    <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=18564" target="_blank">presentazione del Report finale di Palermo Smarter City Challenge 2017</a>
 
 .. |LINK2| raw:: html
 
@@ -71,3 +75,7 @@ Dal 2010, IBM ha conferito lo Smarter Cities Challenge grant a oltre 130 città 
 .. |IMG1| image:: static/index-palermo-ibm-smarter-city-challenge-2017_1.png
    :height: 292 px
    :width: 248 px
+
+.. |IMG2| image:: static/index-palermo-ibm-smarter-city-challenge-2017_2.png
+   :height: 90 px
+   :width: 218 px
