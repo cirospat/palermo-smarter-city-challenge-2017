@@ -385,9 +385,7 @@ Istruzione - Crescere con il cittadino
 
 In molti dei nostri incontri e interviste, l’istruzione è stata indicata come un importante inibitore all’inclusione sociale. Questo non si limita all’apprendimento della lingua italiana, che è senza dubbio una delle principali sfide per i migranti, ma si estende a molte altre aree come la fornitura di nuove competenze ai disoccupati o a coloro che cercano nuove opportunità di carriera a Palermo.
 
-Ci sono alcune organizzazioni (come UNICEF, INTERSOS) che hanno già dato avvio a progetti pilota di e-learning e le seguenti raccomandazioni sono volte a sfruttare queste iniziative, a imparare
-
-dalle loro esperienze per poi ampliarle, garantendo un approccio strutturato e coordinato.
+Ci sono alcune organizzazioni (come UNICEF, INTERSOS) che hanno già dato avvio a progetti pilota di e-learning e le seguenti raccomandazioni sono volte a sfruttare queste iniziative, a imparare dalle loro esperienze per poi ampliarle, garantendo un approccio strutturato e coordinato.
 
 .. _h40666b282080272965312e284855197:
 
@@ -621,7 +619,10 @@ Raccomandazione 6: Gestione degli alloggi sociali
 
 Il Comune dovrebbe adottare un sistema di gestione degli alloggi sociali per disporre di un controllo centralizzato del database degli alloggi sociali della città.
 
+.. _h2a1150502c1613235a2593d58d4258:
+
 Finalità
+~~~~~~~~
 
 Il Comune deve costruire un sistema di gestione e monitoraggio che governerà e disciplinerà l’edilizia sociale nella città di Palermo. Così facendo, avrà una visione completa e aggiornata di tutti gli alloggi disponibili e già inseriti nel sistema, con l’effettiva idoneità dei residenti per accedere a questi alloggi, sviluppando al contempo una “lista d’attesa” chiaramente definita per i nuovi potenziali candidati. Il sistema dovrebbe inoltre consentire la gestione delle complessità del processo di richiesta, la lista d’attesa, l’acquisizione di abitazioni, i pagamenti, la manutenzione, le autorizzazioni annuali e le nuove esigenze.
 
@@ -751,11 +752,7 @@ Alta
 Comunicazione - Coinvolgere il cittadino
 ========================================
 
-\ |STYLE9|\  - Un tema comune in tutte le interviste condotte con i cittadini, le associazioni e le ONG è stata la necessità di una migliore comunicazione all’interno di Palermo: dalla città ai suoi cittadini, da parte delle organizzazioni e associazioni culturali ai cittadini ed al Comune.
-
-Vi è una buona capacità di comunicatori a Palermo, fatta di persone ma molto basata sul passaparola. 
-
-La comunicazione digitale consentirà a tutte le parti di raggiungere un pubblico più ampio, affinché il messaggio sia chiaro e coerente e bidirezionale.
+\ |STYLE9|\  - Un tema comune in tutte le interviste condotte con i cittadini, le associazioni e le ONG è stata la necessità di una migliore comunicazione all’interno di Palermo: dalla città ai suoi cittadini, da parte delle organizzazioni e associazioni culturali ai cittadini ed al Comune. Vi è una buona capacità di comunicatori a Palermo, fatta di persone ma molto basata sul passaparola. La comunicazione digitale consentirà a tutte le parti di raggiungere un pubblico più ampio, affinché il messaggio sia chiaro e coerente e bidirezionale.
 
 .. _h655a6712d476f506c9582d77a461a:
 
@@ -816,7 +813,7 @@ Dal punto di vista tecnologico, per massimizzare gli investimenti, pur sostenend
 Risultati attesi
 ~~~~~~~~~~~~~~~~
 
-I benefici di questa raccomandazione riguardano tutte le parti in causa: i dipendenti del Comune, i cittadini palermitani e gli stranieri, i turisti, le associazioni, le organizzazioni e le ONG.
+I benefici di questa raccomandazione riguardano tutte le parti in causa: i dipendenti del Comune, i cittadini palermitani e gli stranieri, i turisti, le associazioni, le organizzazioni e le ONG:
 
 * Modernizzare il modo in cui la città e il suo ecosistema erogano servizi ai cittadini, riducendo la necessità di recarsi fisicamente negli uffici della città 
 
@@ -883,7 +880,7 @@ Inclusione nel piano di implementazione annuale di SISPI
 Milestone, attività e tempistiche
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Ampliamento del team di comunicazione per concentrarsi su questa attività
+Ampliamento del team di comunicazione per concentrarsi su questa attività:
 
 * Definire la "user experience" del cittadino 
 
@@ -907,13 +904,9 @@ Alta
 Tecnologia - IT come percorso di innovazione
 ============================================
 
-L’innovazione nella tecnologia dell’informazione (IT) sarà un fattore importante per accelerare l’inclusione sociale a Palermo. Per trasformare Palermo in una “città inclusiva”, è necessario
+L’innovazione nella tecnologia dell’informazione (IT) sarà un fattore importante per accelerare l’inclusione sociale a Palermo. Per trasformare Palermo in una “città inclusiva”, è necessario modernizzare le applicazioni e i processi IT, raccogliere e condividere le informazioni più preziose, educare più persone sulle tecnologie IT e ampliare l’ambito di applicazione dell’attuale ambiente IT della città.
 
-modernizzare le applicazioni e i processi IT, raccogliere e condividere le informazioni più preziose, educare più persone sulle tecnologie IT e ampliare l’ambito di applicazione dell’attuale ambiente IT della città.
-
-Palermo ha costruito un ecosistema IT che fornisce alcuni servizi ai suoi cittadini. L’infrastruttura IT per questi servizi è generalmente gestita e coordinata da Sistema Palermo Informatica (SISPI), in
-
-collaborazione con l’Università di Palermo.
+Palermo ha costruito un ecosistema IT che fornisce alcuni servizi ai suoi cittadini. L’infrastruttura IT per questi servizi è generalmente gestita e coordinata da Sistema Palermo Informatica (SISPI), in collaborazione con l’Università di Palermo.
 
 Abbiamo formulato le seguenti raccomandazioni per estendere e trasformare l’attuale ambito di applicazione delle tecnologie:
 
@@ -937,13 +930,9 @@ Il Comune di Palermo dovrebbe interagire con tutte le parti interessate per svil
 Finalità
 ~~~~~~~~
 
-Quando i migranti approdano a Palermo, arrivano con il desiderio di ottenere il diritto di risiedere in Europa. Sono soggetti a una serie di procedure prima che venga presa una decisione in merito alla richiesta del permesso di residenza. Ai fini di questo rapporto, parliamo di “processo R2R” per fare
+Quando i migranti approdano a Palermo, arrivano con il desiderio di ottenere il diritto di risiedere in Europa. Sono soggetti a una serie di procedure prima che venga presa una decisione in merito alla richiesta del permesso di residenza. Ai fini di questo rapporto, parliamo di “processo R2R” per fare riferimento a questo cluster di processi interconnessi e trasversali.
 
-riferimento a questo cluster di processi interconnessi e trasversali.
-
-Lo scopo di questa raccomandazione è quello di utilizzare soluzioni e concetti tecnologici per trasformare il processo R2R, per migliorare significativamente l’esperienza dei migranti e delle organizzazioni coinvolte in tale processo. Questo getterà inoltre le basi per l’implementazione
-
-di una soluzione di gestione completa dei casi, in grado di mettere a disposizione una capacità fondamentale per coordinare tutti i servizi associati al percorso personale di ogni individuo.
+Lo scopo di questa raccomandazione è quello di utilizzare soluzioni e concetti tecnologici per trasformare il processo R2R, per migliorare significativamente l’esperienza dei migranti e delle organizzazioni coinvolte in tale processo. Questo getterà inoltre le basi per l’implementazione di una soluzione di gestione completa dei casi, in grado di mettere a disposizione una capacità fondamentale per coordinare tutti i servizi associati al percorso personale di ogni individuo.
 
 Alcune altre osservazioni sono state:
 
@@ -1064,9 +1053,7 @@ Dare avvio a una “rivoluzione digitale” a Palermo per riposizionare e guidar
 Finalità
 ~~~~~~~~
 
-Guidare un movimento digitale a Palermo per posizionare la città come futuro polo tecnologico dell’Europa meridionale. Questo dovrebbe essere fatto promuovendo l’innovazione e la creatività tra i cittadini di Palermo, a partire dai bambini e dalle comunità selezionate, ma espandendosi, nel corso del tempo, a tutti i membri della società. L’obiettivo è generare entusiasmo e forgiare una nuova generazione di talenti IT per l’economia digitale, insegnando le competenze di coding e le tecnologie digitali e sfruttando questo per generare inclusione attraverso concorsi e competizioni
-
-e creare quindi occupazione per il futuro.
+Guidare un movimento digitale a Palermo per posizionare la città come futuro polo tecnologico dell’Europa meridionale. Questo dovrebbe essere fatto promuovendo l’innovazione e la creatività tra i cittadini di Palermo, a partire dai bambini e dalle comunità selezionate, ma espandendosi, nel corso del tempo, a tutti i membri della società. L’obiettivo è generare entusiasmo e forgiare una nuova generazione di talenti IT per l’economia digitale, insegnando le competenze di coding e le tecnologie digitali e sfruttando questo per generare inclusione attraverso concorsi e competizioni e creare quindi occupazione per il futuro.
 
 Il Comune dovrebbe incoraggiare l’apprendimento del “coding” attraverso un’offerta formativa all’interno del sistema scolastico, fornendo accesso a corsi online per coloro che non sono attualmente all’interno di un percorso di formazione. Ampliando ulteriormente il programma di studi per sviluppare competenze informatiche, l’idea sarebbe quella di sviluppare un gene IT in ogni cittadino, dai giovani agli anziani. Le scuole e le comunità potrebbero quindi competere per creare applicazioni e siti web attorno a un tema comune.
 
@@ -1101,7 +1088,7 @@ Altre attività che potrebbero essere prese in considerazione:
 Risultati attesi
 ~~~~~~~~~~~~~~~~
 
-Palermo potrebbe diventare la “Città del coding”. Serve una nuova ondata di sviluppatori per costruire il mondo digitale di domani. Ogni cittadino di Palermo avrebbe l’opportunità di usare la propria creatività per diventare un talento IT riconosciuto all’interno di questo movimento
+Palermo potrebbe diventare la “Città del coding”. Serve una nuova ondata di sviluppatori per costruire il mondo digitale di domani. Ogni cittadino di Palermo avrebbe l’opportunità di usare la propria creatività per diventare un talento IT riconosciuto all’interno di questo movimento:
 
 * La popolazione migrante, spesso inattiva mentre è in attesa di ricevere il permesso di soggiorno, potrebbe utilizzare il tempo a disposizione per apprendere abilità preziose che, se necessario, possono essere utilizzate in qualunque parte del mondo o nei loro paesi d’origine 
 
@@ -1380,11 +1367,11 @@ Parti interessate:
 Risorse necessarie suggerite
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Gruppo di ricerca presso l’Università di Palermo
+* Gruppo di ricerca presso l’Università di Palermo
 
-Risorse di data science (open source o commerciali, basate sul finanziamento)
+* Risorse di data science (open source o commerciali, basate sul finanziamento)
 
-Gruppi che hanno touch point con i dati (nel caso di dati sui migranti, OIM, UNHRC, MCF e altri)
+* Gruppi che hanno touch point con i dati (nel caso di dati sui migranti, OIM, UNHRC, MCF e altri)
 
 Stima dei costi: Bassa / Media
 
@@ -1424,18 +1411,14 @@ Alto
 Raccomandazione sulla governance
 ================================
 
-\ |STYLE10|\  Questo rapporto contiene diverse raccomandazioni volte a rivitalizzare l’approccio della città di Palermo all’inclusione sociale. Il successo nell’attuazione e nella gestione di queste raccomandazioni sarebbe rafforzato dall’attuazione di un quadro di “governance”. L’obiettivo di
-
-questo quadro sarebbe quello di supervisionare, guidare e supportare i team scelti per svolgere ciascuna iniziativa.
+\ |STYLE10|\  Questo rapporto contiene diverse raccomandazioni volte a rivitalizzare l’approccio della città di Palermo all’inclusione sociale. Il successo nell’attuazione e nella gestione di queste raccomandazioni sarebbe rafforzato dall’attuazione di un quadro di “governance”. L’obiettivo di questo quadro sarebbe quello di supervisionare, guidare e supportare i team scelti per svolgere ciascuna iniziativa.
 
 .. _h354350236618454528577a33673472d:
 
 Raccomandazione 12: Creare un quadro di “governance”
 ----------------------------------------------------
 
-La governance è un quadro formale che fornirà un approccio strutturato alla città di Palermo, per garantire che vengano definite e implementate pratiche efficaci ed efficienti. Questo quadro è fondamentale per garantire la responsabilità e la collaborazione tra i principali stakeholder. Fornirà
-
-metodi per monitorare i progressi e mantenere l’attenzione, fornendo in definitiva la chiarezza e le indicazioni necessarie per la realizzazione di questo programma.
+La governance è un quadro formale che fornirà un approccio strutturato alla città di Palermo, per garantire che vengano definite e implementate pratiche efficaci ed efficienti. Questo quadro è fondamentale per garantire la responsabilità e la collaborazione tra i principali stakeholder. Fornirà metodi per monitorare i progressi e mantenere l’attenzione, fornendo in definitiva la chiarezza e le indicazioni necessarie per la realizzazione di questo programma.
 
 .. _h2a1150502c1613235a2593d58d4258:
 
@@ -1484,11 +1467,6 @@ Risultati attesi
 * I gruppi coinvolti saranno in grado di concentrarsi sulla visione del “quadro generale” anziché sui singoli ambiti di attività, adottando misure proattive affinché il programma abbia un impatto maggiore 
 
 * Migliore comunicazione, che porta a una migliore comprensione delle principali iniziative e delle loro interdipendenze.
-
-.. _h4b1b2f06b2620381248325f73435378:
-
-Risultati attesi
-~~~~~~~~~~~~~~~~
 
 * Migliore definizione delle priorità di progetti e iniziative 
 
