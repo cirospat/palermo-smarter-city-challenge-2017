@@ -13,11 +13,11 @@ Un‘anticipazione si era già avuta in occasione dell’evento svoltosi alla fi
 
 Il report, frutto di oltre 45 ore di incontri, più di 30 interviste agli stakeholder della città e dell'applicazione di un approccio di Design Thinking strutturato, fornisce indicazioni su come accelerare l'inclusione sociale a beneficio di tutti i cittadini di Palermo. Le aree critiche già presentate nel primo evento – la gestione integrata dell’accoglienza dei migranti, il ruolo innovativo della tecnologia nella gestione di questo come di molti altri processi critici per la città, le comunicazioni e gli strumenti per favorire la partecipazione e l’aggregazione di associazioni ed enti presenti nel tessuto cittadino che rappresentano una ricchezza da valorizzare, i problemi legati all’occupazione - nel rapporto sono state analizzate nel dettaglio e per ognuna di esse sono stati proposti progetti specifici. Dodici le raccomandazioni suddivise per ognuna delle aree critiche.
 
-Grande attenzione è dedicata a come la \`\`\ |STYLE0|\ \`\` attraverso il suo uso più efficace e integrato potrebbe migliorare molti processi. Per rafforzare ulteriormente la capacità della Città di essere inclusiva, si potrebbe sviluppare un processo end-to-end, passando da un approccio manuale e non uniforme a uno integrato e sistematico, basato sulle competenze delle persone coinvolte e sostenuto dalla tecnologia, che abbia inizio nel momento in cui l’Amministrazione viene informata dell'arrivo di una nave in porto fino al momento in cui ciascun migrante sarà in grado di ottenere asilo o una residenza legale.
+Grande attenzione è dedicata a come la ``tecnologia`` attraverso il suo uso più efficace e integrato potrebbe migliorare molti processi. Per rafforzare ulteriormente la capacità della Città di essere inclusiva, si potrebbe sviluppare un processo end-to-end, passando da un approccio manuale e non uniforme a uno integrato e sistematico, basato sulle competenze delle persone coinvolte e sostenuto dalla tecnologia, che abbia inizio nel momento in cui l’Amministrazione viene informata dell'arrivo di una nave in porto fino al momento in cui ciascun migrante sarà in grado di ottenere asilo o una residenza legale.
 
-L’uso efficace della tecnologia per fare di Palermo una città pienamente inserita nella rivoluzione digitale in corso deve essere sostenuto da importanti interventi nel campo dell’ \`\`\ |STYLE1|\ \`\`. In questa area Palermo potrebbe valorizzare il lavoro svolto con importanti istituzioni, come l’UNICEF e l’Università, per sviluppare ulteriormente una piattaforma di e-learning che promuova le competenze professionali di base, le competenze linguistiche dell’italiano e l'appropriazione dei codici e contenuti culturali del nostro Paese per accelerare l’integrazione sociale. Inoltre, sarebbe necessaria la messa a punto di un processo formale per ottenere il diploma obbligatorio previsto dalla normativa italiana per le persone che sono state istruite altrove, fornendo loro le basi necessarie per trovare un lavoro o proseguire i loro studi, cosa che costituirebbe un formidabile acceleratore verso l’inclusione.
+L’uso efficace della tecnologia per fare di Palermo una città pienamente inserita nella rivoluzione digitale in corso deve essere sostenuto da importanti interventi nel campo dell’ ``istruzione``. In questa area Palermo potrebbe valorizzare il lavoro svolto con importanti istituzioni, come l’UNICEF e l’Università, per sviluppare ulteriormente una piattaforma di e-learning che promuova le competenze professionali di base, le competenze linguistiche dell’italiano e l'appropriazione dei codici e contenuti culturali del nostro Paese per accelerare l’integrazione sociale. Inoltre, sarebbe necessaria la messa a punto di un processo formale per ottenere il diploma obbligatorio previsto dalla normativa italiana per le persone che sono state istruite altrove, fornendo loro le basi necessarie per trovare un lavoro o proseguire i loro studi, cosa che costituirebbe un formidabile acceleratore verso l’inclusione.
 
-Altrettanto importanti sono gli interventi proposti nel campo della \`\`\ |STYLE2|\ \`\`, non solo al fine di favorire un più rapido e mirato accesso alle informazioni – ampliando, ad esempio, l’esistente sito web del Comune per fare in modo che tutti i palermitani sappiano che questo è il luogo centrale in cui trovarle - ma anche come strumento in grado di promuovere  l’aggregazione di enti, istituzioni, organizzazioni di volontariato e singoli cittadini in un processo di comunicazione bilaterale con l’Amministrazione.  
+Altrettanto importanti sono gli interventi proposti nel campo della ``comunicazione``, non solo al fine di favorire un più rapido e mirato accesso alle informazioni – ampliando, ad esempio, l’esistente sito web del Comune per fare in modo che tutti i palermitani sappiano che questo è il luogo centrale in cui trovarle - ma anche come strumento in grado di promuovere  l’aggregazione di enti, istituzioni, organizzazioni di volontariato e singoli cittadini in un processo di comunicazione bilaterale con l’Amministrazione.  
 
 Ovviamente fare di Palermo una città Smarter e sempre più inclusiva, richiede un sistema di gestione integrato che guidi e supervisioni la realizzazione delle raccomandazioni contenute nel report. Un metodo di governance per monitorare i progressi e mantenere l’attenzione sul raggiungimento dei risultati è fondamentale per la riuscita del percorso progettuale.
 
@@ -34,7 +34,7 @@ Dal 2010, IBM ha conferito lo Smarter Cities Challenge grant a oltre 130 città 
 
 ..  Important:: 
 
-    \ |LINK3|\  \ |STYLE3|\ 
+    \ |LINK3|\  \ |STYLE0|\ 
 
 
 .. toctree::  
@@ -52,13 +52,7 @@ Dal 2010, IBM ha conferito lo Smarter Cities Challenge grant a oltre 130 città 
 .. bottom of content
 
 
-.. |STYLE0| replace:: **tecnologia**
-
-.. |STYLE1| replace:: **istruzione**
-
-.. |STYLE2| replace:: **comunicazione**
-
-.. |STYLE3| replace:: **redatto da IBM in formato pdf**
+.. |STYLE0| replace:: **redatto da IBM in formato pdf**
 
 
 .. |LINK1| raw:: html
