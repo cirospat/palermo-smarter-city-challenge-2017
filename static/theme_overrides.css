@@ -40,3 +40,6 @@ h1, h2, h3, h4 {
     background-color: #58d8d2 !important;
     color: #fff !important;
 }
+
+/* adatta il nav-content a fullhd e si elimina lo spazio vuoto piccolo a destra */
+.wy-nav-content {max-width: 1920px;} 
