@@ -46,13 +46,7 @@ Figura 1: Strutturato, interconnesso, intelligente
 B. La sfida
 ===========
 
-In quanto capoluogo della regione Sicilia, Palermo ha ricevuto un’ampia percentuale dei 160.000 migranti che sono giunti in Italia nel 2016. Palermo vede questa come un’opportunità per rendere la città più inclusiva, dando vita a un percorso adeguato di accoglienza, di primo soccorso e di integrazione per ogni migrante. Con un obiettivo
-
-di inclusione sociale all’interno del tessuto culturale ed economico della città di Palermo, il sindaco Orlando ha invitato il team Smarter Cities Challenge (SCC) di IBM a trasformare
-
-l'arrivo di migranti in un’opportunità per Palermo, per i suoi nuovi residenti e per tutti i
-
-cittadini palermitani, seguendo due piste principali:
+In quanto capoluogo della regione Sicilia, Palermo ha ricevuto un’ampia percentuale dei 160.000 migranti che sono giunti in Italia nel 2016. Palermo vede questa come un’opportunità per rendere la città più inclusiva, dando vita a un percorso adeguato di accoglienza, di primo soccorso e di integrazione per ogni migrante. Con un obiettivo di inclusione sociale all’interno del tessuto culturale ed economico della città di Palermo, il sindaco Orlando ha invitato il team Smarter Cities Challenge (SCC) di IBM a trasformare l'arrivo di migranti in un’opportunità per Palermo, per i suoi nuovi residenti e per tutti i cittadini palermitani, seguendo due piste principali:
 
 * Aiutare la città di Palermo a diventare più smart, più aperta e inclusiva per tutte le fasce deboli della popolazione, con un’attenzione particolare rivolta ai migranti. 
 
@@ -60,9 +54,7 @@ cittadini palermitani, seguendo due piste principali:
 
 Nell’ambito di questo progetto, il team Smarter Cities Challenge di IBM ha incontrato i principali stakeholder della città: dagli assessori della giunta comunale alle organizzazioni non governative (ONG) come la Croce Rossa e l’UNICEF, dalle istituzioni cittadine come il Teatro Massimo alle organizzazioni locali che lavorano in contatto diretto con la comunità.
 
-Tutti hanno condiviso l'importanza della sfida, che può essere così sintetizzata:
-
-\ |STYLE3|\ 
+Tutti hanno condiviso l'importanza della sfida, che può essere così sintetizzata: \ |STYLE3|\ 
 
 |
 
